@@ -1,4 +1,4 @@
-# TODO
+# CHAT ROOM CLI
 
 A simple cli chat app built with python's built in socket ibrary
 
